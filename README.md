@@ -5,3 +5,7 @@ Key Insights  Financial markets react strongly to geopolitical uncertainty.  Per
 * Quant
 * Analysis
 * Stock Market
+
+Scripts:
+1: Dow Jons
+2: vix
